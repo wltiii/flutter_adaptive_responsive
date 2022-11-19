@@ -1,0 +1,33 @@
+= Flutter - Adaptive and Responsive
+Version 0.1, 11/19/2022
+
+:description: Presentation of Flutter Adaptive and Reponsive practices and concerns
+:authors: Manoj Sahu (c) and Bill Turner (c)
+:sourcedir: ../lib
+:imagesdir: ./assets
+:source-highlighter: pygments
+
+== Slide One
+
+This is what I want to show.
+
+[source, dart]
+----
+include::{sourcedir}/example_1.dart[]
+----
+
+== Slide Two
+
+A quote
+
+[quote, Tim Sneath, Googlie I/O Developer Conference: 05/11/2022]
+We're announcing Flutter 3, which is the culmination of our journey to delivering multiplatform UI development across
+phone and desktop and web
+
+<<<
+
+Does anything more need be said?
+
+== Slide 3
+
+Some other stuff
