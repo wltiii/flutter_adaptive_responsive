@@ -7,7 +7,18 @@ Version 0.1, 11/19/2022
 :imagesdir: ./assets
 :source-highlighter: pygments
 
-== Slide One
+== A Slide With Text
+
+Blah blah blah
+
+== An Image
+
+=== A Sahu / Turner Presentation
+
+.Bill and Manoj in Mallorca, May 2002
+image::mallorca010.JPG[]
+
+== Some Source Code
 
 This is what I want to show.
 
@@ -16,7 +27,7 @@ This is what I want to show.
 include::{sourcedir}/example_1.dart[]
 ----
 
-== Slide Two
+== Quoting
 
 A quote
 
@@ -28,6 +39,16 @@ phone and desktop and web
 
 Does anything more need be said?
 
-== Slide 3
+== References
 
-Some other stuff
+html links
+
+== Contact Links
+
+LinkedIn or whatever
+
+== Thank You!
+
+You can find this presentation and all examples at:
+
+github link
