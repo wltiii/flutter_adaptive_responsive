@@ -1,3 +1,3 @@
 class example_1 {
-  /// this is a comment
+  /// this is a comment // <1>
 }
