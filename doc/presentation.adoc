@@ -5,7 +5,11 @@ Version 0.1, 11/19/2022
 :authors: Manoj Sahu (c) and Bill Turner (c)
 :sourcedir: ../lib
 :imagesdir: ./assets
-:source-highlighter: pygments
+// :source-highlighter: highlight.js
+// :source-highlighter: coderay
+// :source-highlighter: pygments
+:icons: font
+:revealjs_theme: solarized
 
 == A Slide With Text
 
@@ -22,11 +26,12 @@ image::mallorca010.JPG[]
 
 This is what I want to show.
 
-[source, dart]
+[source, java]
 ----
 include::{sourcedir}/example_1.dart[]
 ----
 <1> A callout behind a line comment for C-style languages.
+<2> Do not use print in production code!
 
 == Quoting
 
