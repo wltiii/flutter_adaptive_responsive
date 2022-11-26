@@ -15,9 +15,7 @@ Version 0.1, 11/19/2022
 
 Blah blah blah
 
-== An Image
-
-=== A Sahu / Turner Presentation
+== A Sahu / Turner Presentation
 
 .Bill and Manoj in Mallorca, May 2002
 image::mallorca010.JPG[]
