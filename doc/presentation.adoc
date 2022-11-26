@@ -11,14 +11,16 @@ Version 0.1, 11/19/2022
 :icons: font
 :revealjs_theme: solarized
 
-== A Slide With Text
-
-Blah blah blah
-
 == A Sahu / Turner Presentation
 
 .Bill and Manoj in Mallorca, May 2002
-image::mallorca010.JPG[]
+image::mallorca010.JPG[width=320,height=240]
+
+Some text below image
+
+== A Slide With Text
+
+Blah blah blah
 
 == Some Source Code
 
