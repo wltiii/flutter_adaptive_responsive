@@ -18,9 +18,34 @@ image::mallorca010.JPG[width=320,height=240]
 
 Some text below image
 
-== A Slide With Text
+== Introduction
 
-Blah blah blah
+Define terms here
+
+== Concerns
+
+* Various screen sizes
+** Layout changes
+* Navigation
+** Deep linking
+* Plugin support
+* Differing renderers
+
+== Tools
+* LayoutBuilder
+* MediaQuery
+* Expanded
+* Flexible
+* FittedBox
+* SizedBox
+* Pubdev Tools
+** ResponsiveFramework
+** ScreenUtils
+** Boxy
+
+
+== Gotchas
+* Use MediaQuery cautiously
 
 == Some Source Code
 
