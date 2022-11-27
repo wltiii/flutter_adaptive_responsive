@@ -43,6 +43,19 @@ Define terms here
 ** ScreenUtils
 ** Boxy
 
+== Testing
+* Chrome Developer Tool
+* Desktop Version
+
+== Progressive Web Applocation (PWA)
+* Offline Support
+* Installable
+* Push Notifications
+* Easy Synchronization
+
+== Example Layout Changes
+* Master-details (inline vs different page)
+* Single Column vs grid view
 
 == Gotchas
 * Use MediaQuery cautiously
