@@ -9,7 +9,7 @@ Version 0.1, 11/19/2022
 // :source-highlighter: coderay
 // :source-highlighter: pygments
 :icons: font
-:revealjs_theme: solarized
+// :revealjs_theme: solarized
 
 == A Sahu / Turner Presentation
 
@@ -20,7 +20,13 @@ Some text below image
 
 == Introduction
 
-Define terms here
+Adaptive vs. Responsive
+
+=== Adaptive
+This is adaptive
+
+=== Responsive
+This is responsive
 
 == Concerns
 
@@ -32,16 +38,34 @@ Define terms here
 * Differing renderers
 
 == Tools
-* LayoutBuilder
-* MediaQuery
-* Expanded
-* Flexible
-* FittedBox
-* SizedBox
-* Pubdev Tools
-** ResponsiveFramework
-** ScreenUtils
-** Boxy
+// * LayoutBuilder
+// * MediaQuery
+// * Expanded
+// * Flexible
+// * FittedBox
+// * SizedBox
+// * Pubdev Tools
+// ** ResponsiveFramework
+// ** ScreenUtils
+// ** Boxy
+
+[cols="1,1"]
+|===
+|Built-in |Pub-dev
+
+| |
+
+|LayoutBuilder |ResponsiveFramework
+
+|MediaQuery |ScreenUtils
+
+|Expanded |Boxy
+
+|Flexible |
+
+|SizedBox |
+|===
+
 
 == Testing
 * Chrome Developer Tool
@@ -56,6 +80,22 @@ Define terms here
 == Example Layout Changes
 * Master-details (inline vs different page)
 * Single Column vs grid view
+
+== Table
+
+[cols="1,1"]
+|===
+|Cell in column 1, header row |Cell in column 2, header row
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+
+|Cell in column 1, row 4
+|Cell in column 2, row 4
+|===
 
 == Gotchas
 * Use MediaQuery cautiously
