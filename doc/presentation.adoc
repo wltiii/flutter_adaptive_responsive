@@ -1,4 +1,4 @@
-= Flutter - Adaptive and Responsive
+= Flutter: Adaptive and Responsive
 Version 0.1, 11/19/2022
 
 :description: Presentation of Flutter Adaptive and Reponsive practices and concerns
@@ -15,8 +15,6 @@ Version 0.1, 11/19/2022
 
 .Bill and Manoj in Mallorca, May 2002
 image::mallorca010.JPG[width=320,height=240]
-
-Some text below image
 
 == Introduction
 
@@ -38,40 +36,35 @@ This is responsive
 * Differing renderers
 
 == Tools
-// * LayoutBuilder
-// * MediaQuery
-// * Expanded
-// * Flexible
-// * FittedBox
-// * SizedBox
-// * Pubdev Tools
-// ** ResponsiveFramework
-// ** ScreenUtils
-// ** Boxy
 
-[cols="1,1"]
-|===
-|Built-in |Pub-dev
+There are many...
 
-| |
+=== API Classes
 
-|LayoutBuilder |ResponsiveFramework
+* LayoutBuilder
+* MediaQuery
+* Expanded
+* Flexible
+* FittedBox
+* SizedBox
 
-|MediaQuery |ScreenUtils
+=== PubDev Packages
 
-|Expanded |Boxy
+* responsive_framework
+* flutter_screenutil
+* boxy
+* responsive_grid_list
+* responsive_ui
 
-|Flexible |
+Use search terms _adaptive_ or _responsive_ for many more
 
-|SizedBox |
-|===
 
 
 == Testing
 * Chrome Developer Tool
 * Desktop Version
 
-== Progressive Web Applocation (PWA)
+== Progressive Web Application (PWA)
 * Offline Support
 * Installable
 * Push Notifications
@@ -80,22 +73,6 @@ This is responsive
 == Example Layout Changes
 * Master-details (inline vs different page)
 * Single Column vs grid view
-
-== Table
-
-[cols="1,1"]
-|===
-|Cell in column 1, header row |Cell in column 2, header row
-
-|Cell in column 1, row 2
-|Cell in column 2, row 2
-
-|Cell in column 1, row 3
-|Cell in column 2, row 3
-
-|Cell in column 1, row 4
-|Cell in column 2, row 4
-|===
 
 == Gotchas
 * Use MediaQuery cautiously
@@ -135,4 +112,4 @@ LinkedIn or whatever
 
 You can find this presentation and all examples at:
 
-github link
+https://github.com/wltiii/flutter_adaptive_responsive
